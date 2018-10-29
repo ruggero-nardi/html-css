@@ -2,7 +2,7 @@
 
 ##1. HTML
 
-For an introduction to HTML please see [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials).
+For an introduction to HTML please see [WebPlatform](https://webplatform.github.io/docs/html/tutorials/).
 
 W3C's HTML5 specification can be found here: [http://www.w3.org/TR/html5/](http://www.w3.org/TR/html5/)
 
@@ -20,13 +20,13 @@ Through the rest of this section you will create a basic HTML document. After fi
 	3. Add a `list` of "todo items" for your daily chores.
 	4. Create another `.html` file. Create a table for your expenses.
 	5. Create another `.html` file. Add an image, a video, and a sound.
-		* You may find this book useful: [http://diveintohtml5.info/](http://diveintohtml5.info/)		
+		* You may find this book useful: [http://diveintohtml5.info/](http://diveinto.html5doctor.com/)		
 	6. Create a "sign up" form with fields for: first name, last name, email, birthday, a dropdown to choose your favourite sport, and a text-area to include a small bio for the user. Add a button at the end to submit the form, and another one to clear the form. Add relevant validation rules for all fields (like required fields, valid email).
 	7. Test your HTML files in at least Firefox, Chrome, IE, and Chrome for Android or iOS Safari.
 2. **Doctypes & Metatags:** 
 	1. Learn how to write valid, and semantic markup:
-		* [HTML Validation](https://docs.webplatform.org/wiki/guides/html_validation)
-		* [WHAT DOES IT ALL MEAN?](http://diveintohtml5.info/semantics.html)
+		* [HTML Validation](https://webplatform.github.io/docs/guides/html_validation/)
+		* [WHAT DOES IT ALL MEAN?](http://diveinto.html5doctor.com/semantics.html)
 	2. Add `doctype` to the previously created HTML documents. See what happens if you remove it.
 	3. Add metatags to the document.
 	4. Add the [meta viewport tag](http://www.quirksmode.org/mobile/metaviewport/). Check what happens in a mobile browser with or without it.
