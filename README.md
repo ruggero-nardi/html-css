@@ -1,4 +1,4 @@
-# Basics of HTML and CSS ()
+# Basics of HTML and CSS
 
 ##1. HTML
 
